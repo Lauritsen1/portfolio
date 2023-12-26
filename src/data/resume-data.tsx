@@ -93,7 +93,7 @@ export const RESUME_DATA = {
         "A blog platform featuring user authentication and full CRUD operations for posts.",
       logo: null,
       link: {
-        label: "",
+        github: "https://github.com/Lauritsen1/nextjs-blog",
         href: "https://nextjs-blog-psi-bice-76.vercel.app/",
       },
     },
@@ -104,7 +104,7 @@ export const RESUME_DATA = {
         "Web app with a debounced search feature for quick and efficient country information lookup.",
       logo: null,
       link: {
-        label: "",
+        github: "https://github.com/Lauritsen1/country-finder",
         href: "https://country-finder-pi-nine.vercel.app/",
       },
     },
@@ -114,7 +114,7 @@ export const RESUME_DATA = {
       description: "A simple iphone inspired calculator",
       logo: null,
       link: {
-        label: "",
+        github: "https://github.com/Lauritsen1/react-calculator",
         href: "https://inspiring-ritchie-be6a44.netlify.app/",
       },
     },
